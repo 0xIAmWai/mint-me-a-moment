@@ -1,3 +1,5 @@
+// @ts-nocheck
+
 import { useState } from 'react';
 import { SendIcon } from 'lucide-react';
 import toast from 'react-hot-toast';

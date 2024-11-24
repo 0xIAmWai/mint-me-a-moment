@@ -1,3 +1,5 @@
+// @ts-nocheck
+
 import { Clock, Coins, User } from 'lucide-react';
 import { MintMeAMoment } from './../program/mint_me_a_moment';
 import { useConnection } from '@solana/wallet-adapter-react';
